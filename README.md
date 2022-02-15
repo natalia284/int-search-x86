@@ -1,7 +1,7 @@
 # int-search-x86
 Feito em Assembly x86, o código conta as ocorrências de 3 valores inteiros. 
 
-Comando da Questão 
+Comando da Questão:
 
 Escreva um programa em NASM que receba 10 valores inteiros seguidos de 3 valores referentes às variáveis A, B e C.
 
